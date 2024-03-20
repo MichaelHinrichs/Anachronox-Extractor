@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Anachronox-Extractor": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\SteamLibrary\\steamapps\\common\\Anachronox\\anoxdata\\MODELS.dat"
+    }
+  }
+}
